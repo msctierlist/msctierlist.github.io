@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: msctierlist.github.io
+Token: 357cc0fb10eb09f6eccd6a72f8a7c155dbee26e9f3dd352263ca069133c9b8cd
